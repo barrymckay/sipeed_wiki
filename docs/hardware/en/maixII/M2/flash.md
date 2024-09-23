@@ -25,7 +25,7 @@ For example, `v831-m2dock-maixhub-0.5.1-20220701.zip` and ` v831-m2dock-maixpy3-
 | m2dock        | Image for MaixII-Dock                                                                                |
 | 20220701      | Update date                                                                                          |
 
-> These images is not the business edition, only can be burned into TF card.
+> These images are not for the business edition and can only be burned onto a MicroSD card / TF card.
 
 ## Burning the system image using Windows
 
@@ -59,7 +59,7 @@ Only the business edition M2 model contains the flash ROM, so you will likely ne
 - Watch the `Status bar` marked with ④ to see your progress；If it's red when finished then it failed burning so you should rerun `SD Card Formatter` to format the MicroSD card (TF card) again and retry the steps above.
 - Click `Close` to close PhoenixCard
 
-## Burning the system image using Windows
+## Burning the system image using Ubuntu
 
 ### Preparation
 
